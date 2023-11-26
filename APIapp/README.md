@@ -1,4 +1,4 @@
-# Postman simple API testing
+# Simple ContactsBook API testing with Postman, Python SQLite, Newman and Jenkins
 
 This project was builded to practise simple API testing using most common endpoints such as: GET, POST, PUT, PATCH, DELETE. There is a small database, which consists of 1 table and 4 columns. However, it can be modified on your own and used as a subject of learning API testing.
 
